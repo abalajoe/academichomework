@@ -2,23 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0216b191-f0c5-4f6f-90d0-7bc3c3967cb3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/ahlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/ahlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/avatar4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/i.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/i.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/j.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/j.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/load.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/load.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/logowowthemes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._BYekan.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._fontawesome-webfont862f.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._fontawesome-webfont862f.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._fontawesome-webfont862f.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._fontawesome-webfont862f.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._glyphicons-halflings-regular.93.delayed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._typicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._typicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._typicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._typicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._typiconsd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._weathericons-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._weathericons-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._weathericons-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._weathericons-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/._weathericons-regular-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/BYekan.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/fontawesome-webfont862f.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/fontawesome-webfont862f.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/fontawesome-webfont862f.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/glyphicons-halflings-regular.93.delayed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/typicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/typicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/typicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/typiconsd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/weathericons-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/weathericons-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/weathericons-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/weathericons-regular-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/fontawesome-webfont862f.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/typicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/fonts/weathericons-regular-webfont.svg" />
     </list>
     <ignored path="academichomework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -342,94 +369,6 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="academichomework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -449,11 +388,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\academichomework\resources\public" />
       <recent name="E:\academichomework\resources\public\images" />
       <recent name="E:\academichomework\resources\public\img" />
       <recent name="E:\academichomework\resources\public\js" />
       <recent name="E:\academichomework\resources\public\css" />
-      <recent name="E:\academichomework\resources\public" />
     </key>
   </component>
   <component name="RunManager">
@@ -712,12 +651,12 @@
       <created>1465985639317</created>
       <option name="number" value="Default" />
       <updated>1465985639317</updated>
-      <workItem from="1465985641881" duration="1566000" />
+      <workItem from="1465985641881" duration="1750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1566000" />
+    <option name="totallyTimeSpent" value="1750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
