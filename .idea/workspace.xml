@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0216b191-f0c5-4f6f-90d0-7bc3c3967cb3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/bootstrapValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/date.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/skin-red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/smoothscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/style-switcher.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/styleswitch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/switcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/wow.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clj/academichomework/routes/home.clj" afterPath="$PROJECT_DIR$/src/clj/academichomework/routes/home.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/templates/admin/index.html" afterPath="$PROJECT_DIR$/resources/templates/admin/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/templates/admin/login.html" afterPath="$PROJECT_DIR$/resources/templates/admin/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/ahlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/ahlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/anim.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/anim.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/avatar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/avatar5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/j.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/j.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/load.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/img/load.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/images/logowowthemes.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="academichomework.iws" />
@@ -376,6 +369,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="academichomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="academichomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="academichomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="academichomework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -412,6 +449,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\academichomework\resources\public\images" />
+      <recent name="E:\academichomework\resources\public\img" />
       <recent name="E:\academichomework\resources\public\js" />
       <recent name="E:\academichomework\resources\public\css" />
       <recent name="E:\academichomework\resources\public" />
@@ -673,12 +712,12 @@
       <created>1465985639317</created>
       <option name="number" value="Default" />
       <updated>1465985639317</updated>
-      <workItem from="1465985641881" duration="1283000" />
+      <workItem from="1465985641881" duration="1566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1283000" />
+    <option name="totallyTimeSpent" value="1566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -697,7 +736,7 @@
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
